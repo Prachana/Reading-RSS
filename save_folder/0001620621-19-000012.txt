@@ -1,0 +1,314 @@
+<SEC-DOCUMENT>0001620621-19-000012.txt : 20200102
+<SEC-HEADER>0001620621-19-000012.hdr.sgml : 20200102
+<ACCEPTANCE-DATETIME>20200102090141
+ACCESSION NUMBER:		0001620621-19-000012
+CONFORMED SUBMISSION TYPE:	MA-I/A
+PUBLIC DOCUMENT COUNT:		1
+<MA-I_INDIVIDUAL>JENSEN-MATTA,NATASHA,DAWN,
+FILED AS OF DATE:		20191209
+DATE AS OF CHANGE:		20200102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Crowe LLP
+		CENTRAL INDEX KEY:			0001620621
+		IRS NUMBER:				350921680
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		MA-I/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	868-04391
+		FILM NUMBER:		20500277
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3815 RIVER CROSSING PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46240-0977
+		BUSINESS PHONE:		317-706-2633
+
+	MAIL ADDRESS:	
+		STREET 1:		3815 RIVER CROSSING PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46240-0977
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Crowe Horwath LLP
+		DATE OF NAME CHANGE:	20140925
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>MA-I/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/maifiler" xmlns:com="http://www.sec.gov/edgar/common_ma" xmlns:com1="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>MA-I/A</submissionType>
+    <filerInfo>
+      <com:filer>
+        <com1:filerId>0001620621</com1:filerId>
+        <com1:filerCcc>XXXXXXXX</com1:filerCcc>
+      </com:filer>
+      <com:contact>
+        <com1:name>Jennifer Wilson</com1:name>
+        <com1:phoneNumber>317-269-6696</com1:phoneNumber>
+      </com:contact>
+      <com:contactEmail>jennifer.wilson@crowe.com</com:contactEmail>
+      <com:notifications>
+        <com1:internetNotificationAddress>alicia.antonetti@crowe.com</com1:internetNotificationAddress>
+      </com:notifications>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <isAmendment>N</isAmendment>
+    <isIndividual>N</isIndividual>
+    <applicantName>
+      <com:firstName>Natasha</com:firstName>
+      <com:middleName>Dawn</com:middleName>
+      <com:lastName>Jensen-Matta</com:lastName>
+    </applicantName>
+    <hasMoreThanOneAdvisoryFirms>N</hasMoreThanOneAdvisoryFirms>
+    <noOfAdvisoryFirms>1</noOfAdvisoryFirms>
+    <municipalAdvisorOffices>
+      <municipalAdvisorOffice>
+        <municipalFirm>
+          <municipalFiler>
+            <filerId>0001620621</filerId>
+          </municipalFiler>
+          <municipalFirmName>Crowe LLP</municipalFirmName>
+          <recentEmploymentCommencedDate>05-31-2018</recentEmploymentCommencedDate>
+          <isIndependentRelatioship>N</isIndependentRelatioship>
+        </municipalFirm>
+        <maRegistration>
+          <secRegistration>
+            <com:fileNumber>867-01330-00</com:fileNumber>
+          </secRegistration>
+        </maRegistration>
+        <advisorOffices>
+          <advisorOffice>
+            <locationInfo>LOCATED</locationInfo>
+            <locationInfo>SUPERVISED</locationInfo>
+            <startDate>05-31-2018</startDate>
+            <addressInfo>
+              <com:address>
+                <com1:street1>3815 RIVER CROSSING PARKWAY</com1:street1>
+                <com1:street2>SUITE 300</com1:street2>
+                <com1:city>INDIANAPOLIS</com1:city>
+                <com1:stateOrCountry>IN</com1:stateOrCountry>
+                <com1:zipCode>46240-0977</com1:zipCode>
+              </com:address>
+            </addressInfo>
+          </advisorOffice>
+        </advisorOffices>
+      </municipalAdvisorOffice>
+    </municipalAdvisorOffices>
+    <otherNames>
+      <otherName>
+        <com:firstName>Natasha</com:firstName>
+        <com:middleName>Dawn</com:middleName>
+        <com:lastName>Jensen</com:lastName>
+      </otherName>
+    </otherNames>
+    <residentialHistory></residentialHistory>
+    <employmentHistory>
+      <currentEmployer>
+        <startDate>05-2018</startDate>
+        <name>Crowe LLP</name>
+        <addressInfo>
+          <city>Indianapolis</city>
+          <stateOrCountry>
+            <com1:stateOrCountry>IN</com1:stateOrCountry>
+          </stateOrCountry>
+          <zipCode>46204</zipCode>
+        </addressInfo>
+        <isRelatedToMunicipalAdvisor>Y</isRelatedToMunicipalAdvisor>
+        <isRelatedToInvestment>N</isRelatedToInvestment>
+        <positionDescription>Staff</positionDescription>
+      </currentEmployer>
+      <priorEmployers>
+        <priorEmployer>
+          <startDate>08-2016</startDate>
+          <endDate>05-2018</endDate>
+          <name>Indiana University</name>
+          <addressInfo>
+            <city>Bloomington</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>IN</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>47405</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Student</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>10-2015</startDate>
+          <endDate>06-2016</endDate>
+          <name>Fifth Third Bank</name>
+          <addressInfo>
+            <city>DeKalb</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>IL</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>60115</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Personal Banker</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>04-2015</startDate>
+          <endDate>10-2015</endDate>
+          <name>Fifth Third Bank</name>
+          <addressInfo>
+            <city>Elburn</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>IL</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>60119</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Customer Service Representative</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>08-2013</startDate>
+          <endDate>04-2015</endDate>
+          <name>Hy-Vee Inc.</name>
+          <addressInfo>
+            <city>Sycamore</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>IL</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>60178</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Cash Accountability Staff</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>08-2011</startDate>
+          <endDate>12-2014</endDate>
+          <name>Northern Illinois University</name>
+          <addressInfo>
+            <city>DeKalb</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>IL</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>60115</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Student</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>08-2007</startDate>
+          <endDate>05-2011</endDate>
+          <name>Hall High School</name>
+          <addressInfo>
+            <city>Spring Valley</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>IL</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>61362</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Student</positionDescription>
+        </priorEmployer>
+      </priorEmployers>
+    </employmentHistory>
+    <isEngagedInOtherBusiness>N</isEngagedInOtherBusiness>
+    <disclosureQuestions>
+      <criminalDisclosure>
+        <criminalDisclosureCommonQuestion>
+          <com:isConvictedOfFelony>N</com:isConvictedOfFelony>
+          <com:isChargedWithFelony>N</com:isChargedWithFelony>
+          <com:isOrgConvictedOfFelony>N</com:isOrgConvictedOfFelony>
+          <com:isOrgChargedWithFelony>N</com:isOrgChargedWithFelony>
+        </criminalDisclosureCommonQuestion>
+        <isConvictedOfMisdemeanor>N</isConvictedOfMisdemeanor>
+        <isChargedWithMisdemeanor>N</isChargedWithMisdemeanor>
+        <isOrgConvictedOfMisdemeanor>N</isOrgConvictedOfMisdemeanor>
+        <isOrgChargedWithMisdemeanor>N</isOrgChargedWithMisdemeanor>
+      </criminalDisclosure>
+      <regulatoryDisclosure>
+        <regulatoryDisclosureCommonQuestion>
+          <com:isMadeFalseStatement>N</com:isMadeFalseStatement>
+          <com:isViolatedRegulation>N</com:isViolatedRegulation>
+          <com:isCauseOfDenial>N</com:isCauseOfDenial>
+          <com:isOrderAgainst>N</com:isOrderAgainst>
+          <com:isImposedPenalty>N</com:isImposedPenalty>
+          <com:isUnEthical>N</com:isUnEthical>
+          <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+          <com:isFoundInCauseOfDenial>N</com:isFoundInCauseOfDenial>
+          <com:isOrderAgainstActivity>N</com:isOrderAgainstActivity>
+          <com:isDeniedLicense>N</com:isDeniedLicense>
+          <com:isFoundMadeFalseStatement>N</com:isFoundMadeFalseStatement>
+          <com:isFoundInViolationOfRules>N</com:isFoundInViolationOfRules>
+          <com:isFoundInCauseOfSuspension>N</com:isFoundInCauseOfSuspension>
+          <com:isDiscipliend>N</com:isDiscipliend>
+          <com:isAuthorizedToActAttorney>N</com:isAuthorizedToActAttorney>
+          <com:isRegulatoryComplaint>N</com:isRegulatoryComplaint>
+        </regulatoryDisclosureCommonQuestion>
+        <isViolatedSecurityAct>N</isViolatedSecurityAct>
+        <isWillFullyAided>N</isWillFullyAided>
+        <isFailedToSupervise>N</isFailedToSupervise>
+        <isFoundWillFullyAided>N</isFoundWillFullyAided>
+        <isAssociationBared>N</isAssociationBared>
+        <isFinalOrder>N</isFinalOrder>
+        <isWillFullyViolatedSecurityAct>N</isWillFullyViolatedSecurityAct>
+        <isFailedResonably>N</isFailedResonably>
+      </regulatoryDisclosure>
+      <investigationDisclosure>
+        <isInvestigated>N</isInvestigated>
+      </investigationDisclosure>
+      <civilDisclosure>
+        <com:isEnjoined>N</com:isEnjoined>
+        <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+        <com:isDismissed>N</com:isDismissed>
+        <com:isNamedInCivilProceeding>N</com:isNamedInCivilProceeding>
+      </civilDisclosure>
+      <complaintDisclosure>
+        <isComplaintPending>N</isComplaintPending>
+        <isComplaintSettled>N</isComplaintSettled>
+        <isFraudCasePending>N</isFraudCasePending>
+        <isFraudCaseResultedAward>N</isFraudCaseResultedAward>
+        <isFraudCaseSettled>N</isFraudCaseSettled>
+      </complaintDisclosure>
+      <terminationDisclosure>
+        <isViloatedIndustryStandard>N</isViloatedIndustryStandard>
+        <isInvolvedInFraud>N</isInvolvedInFraud>
+        <isFailedToSupervise>N</isFailedToSupervise>
+      </terminationDisclosure>
+      <financialDisclosure>
+        <isCompromised>N</isCompromised>
+        <isBankruptcyPetition>N</isBankruptcyPetition>
+        <isTrusteeApointed>N</isTrusteeApointed>
+        <isBondRevoked>N</isBondRevoked>
+      </financialDisclosure>
+      <judgmentLienDisclosure>
+        <isLienAgainst>N</isLienAgainst>
+      </judgmentLienDisclosure>
+    </disclosureQuestions>
+    <signatureInfo>
+      <com:signature>
+        <com:dateSigned>12-09-2019</com:dateSigned>
+        <com:signature>Jennifer Z. Wilson</com:signature>
+        <com:title>Managing Director</com:title>
+      </com:signature>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

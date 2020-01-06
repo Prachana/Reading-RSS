@@ -1,0 +1,255 @@
+<SEC-DOCUMENT>0001669517-19-000052.txt : 20200102
+<SEC-HEADER>0001669517-19-000052.hdr.sgml : 20200102
+<ACCEPTANCE-DATETIME>20200102155427
+ACCESSION NUMBER:		0001669517-19-000052
+CONFORMED SUBMISSION TYPE:	MA-I
+PUBLIC DOCUMENT COUNT:		1
+<MA-I_INDIVIDUAL>MURPHY,JOHN,MARTIN,
+FILED AS OF DATE:		20191227
+DATE AS OF CHANGE:		20200102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PFM FINANCIAL ADVISORS LLC
+		CENTRAL INDEX KEY:			0001669517
+		IRS NUMBER:				811642787
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		MA-I
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	868-05146
+		FILM NUMBER:		20501467
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1735 MARKET STREET
+		STREET 2:		43RD FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103-2700
+		BUSINESS PHONE:		215-567-6100
+
+	MAIL ADDRESS:	
+		STREET 1:		1735 MARKET STREET
+		STREET 2:		43RD FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103-2700
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>MA-I
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/maifiler" xmlns:com="http://www.sec.gov/edgar/common_ma" xmlns:com1="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>MA-I</submissionType>
+    <filerInfo>
+      <com:filer>
+        <com1:filerId>0001669517</com1:filerId>
+        <com1:filerCcc>XXXXXXXX</com1:filerCcc>
+      </com:filer>
+      <com:contact>
+        <com1:name>LEO KARWEJNA</com1:name>
+        <com1:phoneNumber>717-232-2723</com1:phoneNumber>
+      </com:contact>
+      <com:contactEmail>KARWEJNAL@PFM.COM</com:contactEmail>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <isAmendment>N</isAmendment>
+    <isIndividual>N</isIndividual>
+    <applicantName>
+      <com:firstName>JOHN</com:firstName>
+      <com:middleName>MARTIN</com:middleName>
+      <com:lastName>MURPHY</com:lastName>
+    </applicantName>
+    <hasMoreThanOneAdvisoryFirms>N</hasMoreThanOneAdvisoryFirms>
+    <noOfAdvisoryFirms>1</noOfAdvisoryFirms>
+    <municipalAdvisorOffices>
+      <municipalAdvisorOffice>
+        <municipalFirm>
+          <municipalFiler>
+            <filerId>0001669517</filerId>
+          </municipalFiler>
+          <municipalFirmName>PFM FINANCIAL ADVISORS LLC</municipalFirmName>
+          <recentEmploymentCommencedDate>11-04-2019</recentEmploymentCommencedDate>
+          <isIndependentRelatioship>N</isIndependentRelatioship>
+        </municipalFirm>
+        <maRegistration>
+          <secRegistration>
+            <com:fileNumber>867-02030</com:fileNumber>
+          </secRegistration>
+        </maRegistration>
+        <advisorOffices>
+          <advisorOffice>
+            <locationInfo>LOCATED</locationInfo>
+            <locationInfo>SUPERVISED</locationInfo>
+            <startDate>11-04-2019</startDate>
+            <addressInfo>
+              <com:address>
+                <com1:street1>1735 MARKET STREET</com1:street1>
+                <com1:street2>43RD FLOOR</com1:street2>
+                <com1:city>PHILADELPHIA</com1:city>
+                <com1:stateOrCountry>PA</com1:stateOrCountry>
+                <com1:zipCode>19103-2700</com1:zipCode>
+              </com:address>
+            </addressInfo>
+          </advisorOffice>
+        </advisorOffices>
+      </municipalAdvisorOffice>
+    </municipalAdvisorOffices>
+    <residentialHistory></residentialHistory>
+    <employmentHistory>
+      <currentEmployer>
+        <startDate>11-2019</startDate>
+        <name>PFM FINANCIAL ADVISORS LLC</name>
+        <addressInfo>
+          <city>PHILADELPHIA</city>
+          <stateOrCountry>
+            <com1:stateOrCountry>PA</com1:stateOrCountry>
+          </stateOrCountry>
+          <zipCode>19103</zipCode>
+        </addressInfo>
+        <isRelatedToMunicipalAdvisor>Y</isRelatedToMunicipalAdvisor>
+        <isRelatedToInvestment>N</isRelatedToInvestment>
+        <positionDescription>DIRECTOR</positionDescription>
+      </currentEmployer>
+      <priorEmployers>
+        <priorEmployer>
+          <startDate>11-2018</startDate>
+          <endDate>11-2019</endDate>
+          <name>UNEMPLOYED</name>
+          <addressInfo>
+            <city>NASHUA</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>NH</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>03062</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>UNEMPLOYED</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>02-2018</startDate>
+          <endDate>11-2018</endDate>
+          <name>BONDLINK LLC</name>
+          <addressInfo>
+            <city>BOSTON</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>MA</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>02110</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>Y</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>SENIOR MANAGER, INVESTOR RELATIONS AND OUTREACH</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>06-1999</startDate>
+          <endDate>01-2018</endDate>
+          <name>FIDELITY INVESTMENTS</name>
+          <addressInfo>
+            <city>MERRIMACK</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>NH</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>03054</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>Y</isRelatedToInvestment>
+          <positionDescription>RESEARCH ANALYST, BOND TRADER</positionDescription>
+        </priorEmployer>
+      </priorEmployers>
+    </employmentHistory>
+    <isEngagedInOtherBusiness>N</isEngagedInOtherBusiness>
+    <disclosureQuestions>
+      <criminalDisclosure>
+        <criminalDisclosureCommonQuestion>
+          <com:isConvictedOfFelony>N</com:isConvictedOfFelony>
+          <com:isChargedWithFelony>N</com:isChargedWithFelony>
+          <com:isOrgConvictedOfFelony>N</com:isOrgConvictedOfFelony>
+          <com:isOrgChargedWithFelony>N</com:isOrgChargedWithFelony>
+        </criminalDisclosureCommonQuestion>
+        <isConvictedOfMisdemeanor>N</isConvictedOfMisdemeanor>
+        <isChargedWithMisdemeanor>N</isChargedWithMisdemeanor>
+        <isOrgConvictedOfMisdemeanor>N</isOrgConvictedOfMisdemeanor>
+        <isOrgChargedWithMisdemeanor>N</isOrgChargedWithMisdemeanor>
+      </criminalDisclosure>
+      <regulatoryDisclosure>
+        <regulatoryDisclosureCommonQuestion>
+          <com:isMadeFalseStatement>N</com:isMadeFalseStatement>
+          <com:isViolatedRegulation>N</com:isViolatedRegulation>
+          <com:isCauseOfDenial>N</com:isCauseOfDenial>
+          <com:isOrderAgainst>N</com:isOrderAgainst>
+          <com:isImposedPenalty>N</com:isImposedPenalty>
+          <com:isUnEthical>N</com:isUnEthical>
+          <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+          <com:isFoundInCauseOfDenial>N</com:isFoundInCauseOfDenial>
+          <com:isOrderAgainstActivity>N</com:isOrderAgainstActivity>
+          <com:isDeniedLicense>N</com:isDeniedLicense>
+          <com:isFoundMadeFalseStatement>N</com:isFoundMadeFalseStatement>
+          <com:isFoundInViolationOfRules>N</com:isFoundInViolationOfRules>
+          <com:isFoundInCauseOfSuspension>N</com:isFoundInCauseOfSuspension>
+          <com:isDiscipliend>N</com:isDiscipliend>
+          <com:isAuthorizedToActAttorney>N</com:isAuthorizedToActAttorney>
+          <com:isRegulatoryComplaint>N</com:isRegulatoryComplaint>
+        </regulatoryDisclosureCommonQuestion>
+        <isViolatedSecurityAct>N</isViolatedSecurityAct>
+        <isWillFullyAided>N</isWillFullyAided>
+        <isFailedToSupervise>N</isFailedToSupervise>
+        <isFoundWillFullyAided>N</isFoundWillFullyAided>
+        <isAssociationBared>N</isAssociationBared>
+        <isFinalOrder>N</isFinalOrder>
+        <isWillFullyViolatedSecurityAct>N</isWillFullyViolatedSecurityAct>
+        <isFailedResonably>N</isFailedResonably>
+      </regulatoryDisclosure>
+      <investigationDisclosure>
+        <isInvestigated>N</isInvestigated>
+      </investigationDisclosure>
+      <civilDisclosure>
+        <com:isEnjoined>N</com:isEnjoined>
+        <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+        <com:isDismissed>N</com:isDismissed>
+        <com:isNamedInCivilProceeding>N</com:isNamedInCivilProceeding>
+      </civilDisclosure>
+      <complaintDisclosure>
+        <isComplaintPending>N</isComplaintPending>
+        <isComplaintSettled>N</isComplaintSettled>
+        <isFraudCasePending>N</isFraudCasePending>
+        <isFraudCaseResultedAward>N</isFraudCaseResultedAward>
+        <isFraudCaseSettled>N</isFraudCaseSettled>
+      </complaintDisclosure>
+      <terminationDisclosure>
+        <isViloatedIndustryStandard>N</isViloatedIndustryStandard>
+        <isInvolvedInFraud>N</isInvolvedInFraud>
+        <isFailedToSupervise>N</isFailedToSupervise>
+      </terminationDisclosure>
+      <financialDisclosure>
+        <isCompromised>N</isCompromised>
+        <isBankruptcyPetition>N</isBankruptcyPetition>
+        <isTrusteeApointed>N</isTrusteeApointed>
+        <isBondRevoked>N</isBondRevoked>
+      </financialDisclosure>
+      <judgmentLienDisclosure>
+        <isLienAgainst>N</isLienAgainst>
+      </judgmentLienDisclosure>
+    </disclosureQuestions>
+    <signatureInfo>
+      <com:signature>
+        <com:dateSigned>11-15-2019</com:dateSigned>
+        <com:signature>LEO KARWEJNA</com:signature>
+        <com:title>CHIEF COMPLIANCE OFFICER</com:title>
+      </com:signature>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

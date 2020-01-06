@@ -1,0 +1,220 @@
+<SEC-DOCUMENT>0000091154-19-000048.txt : 20200102
+<SEC-HEADER>0000091154-19-000048.hdr.sgml : 20200102
+<ACCEPTANCE-DATETIME>20200102084018
+ACCESSION NUMBER:		0000091154-19-000048
+CONFORMED SUBMISSION TYPE:	MA-I/A
+PUBLIC DOCUMENT COUNT:		1
+<MA-I_INDIVIDUAL>JOHANSON,KRISTEN,LEE,
+FILED AS OF DATE:		20191209
+DATE AS OF CHANGE:		20200102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CITIGROUP GLOBAL MARKETS INC.
+		CENTRAL INDEX KEY:			0000091154
+		IRS NUMBER:				112418191
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		MA-I/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	868-05550
+		FILM NUMBER:		20500198
+
+	BUSINESS ADDRESS:	
+		STREET 1:		388 GREENWICH STREET
+		STREET 2:		TOWER BUILDING
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		716-730-8446
+
+	MAIL ADDRESS:	
+		STREET 1:		REGISTRATION DEPARTMENT
+		STREET 2:		540 CROSSPOINT PARKWAY
+		CITY:			GETZVILLE
+		STATE:			NY
+		ZIP:			14068
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SALOMON SMITH BARNEY INC.
+		DATE OF NAME CHANGE:	20020603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SALOMON SMITH BARNEY INC                                /BD
+		DATE OF NAME CHANGE:	20020603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SALOMON SMITH BARNEY INC //NY                          /BD
+		DATE OF NAME CHANGE:	19981118
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>MA-I/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/maifiler" xmlns:com="http://www.sec.gov/edgar/common_ma" xmlns:com1="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>MA-I/A</submissionType>
+    <filerInfo>
+      <com:filer>
+        <com1:filerId>0000091154</com1:filerId>
+        <com1:filerCcc>XXXXXXXX</com1:filerCcc>
+      </com:filer>
+      <com:contact>
+        <com1:name>Nichole Schwartzkopf</com1:name>
+        <com1:phoneNumber>716-730-6173</com1:phoneNumber>
+      </com:contact>
+      <com:contactEmail>nichole.schwartzkopf@citi.com</com:contactEmail>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <isAmendment>N</isAmendment>
+    <isIndividual>Y</isIndividual>
+    <applicantName>
+      <com:firstName>Kristen</com:firstName>
+      <com:middleName>Lee</com:middleName>
+      <com:lastName>Johanson</com:lastName>
+    </applicantName>
+    <applicantCrdNum>735846</applicantCrdNum>
+    <hasMoreThanOneAdvisoryFirms>N</hasMoreThanOneAdvisoryFirms>
+    <noOfAdvisoryFirms>1</noOfAdvisoryFirms>
+    <municipalAdvisorOffices>
+      <municipalAdvisorOffice>
+        <municipalFirm>
+          <municipalFiler>
+            <filerId>0000091154</filerId>
+          </municipalFiler>
+          <municipalFirmName>CITIGROUP GLOBAL MARKETS INC.</municipalFirmName>
+          <recentEmploymentCommencedDate>12-01-1994</recentEmploymentCommencedDate>
+          <isIndependentRelatioship>N</isIndependentRelatioship>
+        </municipalFirm>
+        <maRegistration>
+          <notSecRegistered>
+            <explanation>The firm is in the process of applying for registration.</explanation>
+          </notSecRegistered>
+        </maRegistration>
+        <advisorOffices>
+          <advisorOffice>
+            <locationInfo>LOCATED</locationInfo>
+            <startDate>12-01-1994</startDate>
+            <addressInfo>
+              <com:address>
+                <com1:street1>388 GREENWICH STREET</com1:street1>
+                <com1:street2>Trading 6th Floor</com1:street2>
+                <com1:city>NEW YORK</com1:city>
+                <com1:stateOrCountry>NY</com1:stateOrCountry>
+                <com1:zipCode>10013</com1:zipCode>
+              </com:address>
+            </addressInfo>
+          </advisorOffice>
+        </advisorOffices>
+      </municipalAdvisorOffice>
+    </municipalAdvisorOffices>
+    <residentialHistory></residentialHistory>
+    <employmentHistory>
+      <currentEmployer>
+        <startDate>01-1981</startDate>
+        <name>Citigroup</name>
+        <addressInfo>
+          <city>New York</city>
+          <stateOrCountry>
+            <com1:stateOrCountry>NY</com1:stateOrCountry>
+          </stateOrCountry>
+          <zipCode>10013</zipCode>
+        </addressInfo>
+        <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+        <isRelatedToInvestment>N</isRelatedToInvestment>
+        <positionDescription>Managing Director</positionDescription>
+      </currentEmployer>
+    </employmentHistory>
+    <isEngagedInOtherBusiness>N</isEngagedInOtherBusiness>
+    <disclosureQuestions>
+      <criminalDisclosure>
+        <criminalDisclosureCommonQuestion>
+          <com:isConvictedOfFelony>N</com:isConvictedOfFelony>
+          <com:isChargedWithFelony>N</com:isChargedWithFelony>
+          <com:isOrgConvictedOfFelony>N</com:isOrgConvictedOfFelony>
+          <com:isOrgChargedWithFelony>N</com:isOrgChargedWithFelony>
+        </criminalDisclosureCommonQuestion>
+        <isConvictedOfMisdemeanor>N</isConvictedOfMisdemeanor>
+        <isChargedWithMisdemeanor>N</isChargedWithMisdemeanor>
+        <isOrgConvictedOfMisdemeanor>N</isOrgConvictedOfMisdemeanor>
+        <isOrgChargedWithMisdemeanor>N</isOrgChargedWithMisdemeanor>
+      </criminalDisclosure>
+      <regulatoryDisclosure>
+        <regulatoryDisclosureCommonQuestion>
+          <com:isMadeFalseStatement>N</com:isMadeFalseStatement>
+          <com:isViolatedRegulation>N</com:isViolatedRegulation>
+          <com:isCauseOfDenial>N</com:isCauseOfDenial>
+          <com:isOrderAgainst>N</com:isOrderAgainst>
+          <com:isImposedPenalty>N</com:isImposedPenalty>
+          <com:isUnEthical>N</com:isUnEthical>
+          <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+          <com:isFoundInCauseOfDenial>N</com:isFoundInCauseOfDenial>
+          <com:isOrderAgainstActivity>N</com:isOrderAgainstActivity>
+          <com:isDeniedLicense>N</com:isDeniedLicense>
+          <com:isFoundMadeFalseStatement>N</com:isFoundMadeFalseStatement>
+          <com:isFoundInViolationOfRules>N</com:isFoundInViolationOfRules>
+          <com:isFoundInCauseOfSuspension>N</com:isFoundInCauseOfSuspension>
+          <com:isDiscipliend>N</com:isDiscipliend>
+          <com:isAuthorizedToActAttorney>N</com:isAuthorizedToActAttorney>
+          <com:isRegulatoryComplaint>N</com:isRegulatoryComplaint>
+        </regulatoryDisclosureCommonQuestion>
+        <isViolatedSecurityAct>N</isViolatedSecurityAct>
+        <isWillFullyAided>N</isWillFullyAided>
+        <isFailedToSupervise>N</isFailedToSupervise>
+        <isFoundWillFullyAided>N</isFoundWillFullyAided>
+        <isAssociationBared>N</isAssociationBared>
+        <isFinalOrder>N</isFinalOrder>
+        <isWillFullyViolatedSecurityAct>N</isWillFullyViolatedSecurityAct>
+        <isFailedResonably>N</isFailedResonably>
+      </regulatoryDisclosure>
+      <investigationDisclosure>
+        <isInvestigated>N</isInvestigated>
+      </investigationDisclosure>
+      <civilDisclosure>
+        <com:isEnjoined>N</com:isEnjoined>
+        <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+        <com:isDismissed>N</com:isDismissed>
+        <com:isNamedInCivilProceeding>N</com:isNamedInCivilProceeding>
+      </civilDisclosure>
+      <complaintDisclosure>
+        <isComplaintPending>N</isComplaintPending>
+        <isComplaintSettled>N</isComplaintSettled>
+        <isFraudCasePending>N</isFraudCasePending>
+        <isFraudCaseResultedAward>N</isFraudCaseResultedAward>
+        <isFraudCaseSettled>N</isFraudCaseSettled>
+      </complaintDisclosure>
+      <terminationDisclosure>
+        <isViloatedIndustryStandard>N</isViloatedIndustryStandard>
+        <isInvolvedInFraud>N</isInvolvedInFraud>
+        <isFailedToSupervise>N</isFailedToSupervise>
+      </terminationDisclosure>
+      <financialDisclosure>
+        <isCompromised>N</isCompromised>
+        <isBankruptcyPetition>N</isBankruptcyPetition>
+        <isTrusteeApointed>N</isTrusteeApointed>
+        <isBondRevoked>N</isBondRevoked>
+      </financialDisclosure>
+      <judgmentLienDisclosure>
+        <isLienAgainst>N</isLienAgainst>
+      </judgmentLienDisclosure>
+    </disclosureQuestions>
+    <signatureInfo>
+      <com:signature>
+        <com:dateSigned>12-09-2019</com:dateSigned>
+        <com:signature>James Molloy</com:signature>
+        <com:title>Managing Director</com:title>
+      </com:signature>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

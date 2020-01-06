@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0001624022-19-000007.txt : 20200102
+<SEC-HEADER>0001624022-19-000007.hdr.sgml : 20200102
+<ACCEPTANCE-DATETIME>20200102090705
+ACCESSION NUMBER:		0001624022-19-000007
+CONFORMED SUBMISSION TYPE:	MA-I/A
+PUBLIC DOCUMENT COUNT:		1
+<MA-I_INDIVIDUAL>BOLTON,CASEY,ROBERT,
+FILED AS OF DATE:		20191211
+DATE AS OF CHANGE:		20200102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Commonwealth Economics Partners, LLC
+		CENTRAL INDEX KEY:			0001624022
+		IRS NUMBER:				463353597
+		STATE OF INCORPORATION:			KY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		MA-I/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	868-04362
+		FILM NUMBER:		20500285
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 W. MAIN ST
+		STREET 2:		SUITE 620
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+		BUSINESS PHONE:		859-246-3060
+
+	MAIL ADDRESS:	
+		STREET 1:		100 W. MAIN ST
+		STREET 2:		SUITE 620
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>MA-I/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/maifiler" xmlns:com="http://www.sec.gov/edgar/common_ma" xmlns:com1="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>MA-I/A</submissionType>
+    <filerInfo>
+      <com:filer>
+        <com1:filerId>0001624022</com1:filerId>
+        <com1:filerCcc>XXXXXXXX</com1:filerCcc>
+      </com:filer>
+      <com:contact>
+        <com1:name>John R. Farris</com1:name>
+        <com1:phoneNumber>859-246-3060</com1:phoneNumber>
+      </com:contact>
+      <com:contactEmail>JFarris@CommonwealthEcon.com</com:contactEmail>
+      <com:notifications>
+        <com1:internetNotificationAddress>CBolton@CommonwealthEcon.com</com1:internetNotificationAddress>
+      </com:notifications>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <isAmendment>N</isAmendment>
+    <isIndividual>N</isIndividual>
+    <applicantName>
+      <com:firstName>Casey</com:firstName>
+      <com:middleName>Robert</com:middleName>
+      <com:lastName>Bolton</com:lastName>
+    </applicantName>
+    <hasMoreThanOneAdvisoryFirms>N</hasMoreThanOneAdvisoryFirms>
+    <noOfAdvisoryFirms>1</noOfAdvisoryFirms>
+    <municipalAdvisorOffices>
+      <municipalAdvisorOffice>
+        <municipalFirm>
+          <municipalFiler>
+            <filerId>0001624022</filerId>
+          </municipalFiler>
+          <municipalFirmName>Commonwealth Economics Partners, LLC</municipalFirmName>
+          <municipalDbaName>Commonwealth Economics</municipalDbaName>
+          <recentEmploymentCommencedDate>06-15-2009</recentEmploymentCommencedDate>
+          <isIndependentRelatioship>N</isIndependentRelatioship>
+        </municipalFirm>
+        <maRegistration>
+          <secRegistration>
+            <com:fileNumber>867-01308</com:fileNumber>
+          </secRegistration>
+        </maRegistration>
+        <advisorOffices>
+          <advisorOffice>
+            <locationInfo>LOCATED</locationInfo>
+            <startDate>07-15-2019</startDate>
+            <addressInfo>
+              <com:address>
+                <com1:street1>100 West Main Street, Suite 620</com1:street1>
+                <com1:city>LEXINGTON</com1:city>
+                <com1:stateOrCountry>KY</com1:stateOrCountry>
+                <com1:zipCode>40507</com1:zipCode>
+              </com:address>
+            </addressInfo>
+          </advisorOffice>
+        </advisorOffices>
+      </municipalAdvisorOffice>
+    </municipalAdvisorOffices>
+    <residentialHistory></residentialHistory>
+    <employmentHistory>
+      <currentEmployer>
+        <startDate>06-2009</startDate>
+        <name>Commonwealth Economics Partners, LLC</name>
+        <addressInfo>
+          <city>Lexington</city>
+          <stateOrCountry>
+            <com1:stateOrCountry>KY</com1:stateOrCountry>
+          </stateOrCountry>
+          <zipCode>40507</zipCode>
+        </addressInfo>
+        <isRelatedToMunicipalAdvisor>Y</isRelatedToMunicipalAdvisor>
+        <isRelatedToInvestment>N</isRelatedToInvestment>
+        <positionDescription>Senior Associate</positionDescription>
+      </currentEmployer>
+      <priorEmployers>
+        <priorEmployer>
+          <startDate>08-2005</startDate>
+          <endDate>05-2009</endDate>
+          <name>Centre College</name>
+          <addressInfo>
+            <city>Danville</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>KY</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>40422</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Full-time Student</positionDescription>
+        </priorEmployer>
+        <priorEmployer>
+          <startDate>08-2001</startDate>
+          <endDate>06-2005</endDate>
+          <name>Tates Creek High School</name>
+          <addressInfo>
+            <city>Lexington</city>
+            <stateOrCountry>
+              <com1:stateOrCountry>KY</com1:stateOrCountry>
+            </stateOrCountry>
+            <zipCode>40517</zipCode>
+          </addressInfo>
+          <isRelatedToMunicipalAdvisor>N</isRelatedToMunicipalAdvisor>
+          <isRelatedToInvestment>N</isRelatedToInvestment>
+          <positionDescription>Full-time Student</positionDescription>
+        </priorEmployer>
+      </priorEmployers>
+    </employmentHistory>
+    <isEngagedInOtherBusiness>N</isEngagedInOtherBusiness>
+    <disclosureQuestions>
+      <criminalDisclosure>
+        <criminalDisclosureCommonQuestion>
+          <com:isConvictedOfFelony>N</com:isConvictedOfFelony>
+          <com:isChargedWithFelony>N</com:isChargedWithFelony>
+          <com:isOrgConvictedOfFelony>N</com:isOrgConvictedOfFelony>
+          <com:isOrgChargedWithFelony>N</com:isOrgChargedWithFelony>
+        </criminalDisclosureCommonQuestion>
+        <isConvictedOfMisdemeanor>N</isConvictedOfMisdemeanor>
+        <isChargedWithMisdemeanor>N</isChargedWithMisdemeanor>
+        <isOrgConvictedOfMisdemeanor>N</isOrgConvictedOfMisdemeanor>
+        <isOrgChargedWithMisdemeanor>N</isOrgChargedWithMisdemeanor>
+      </criminalDisclosure>
+      <regulatoryDisclosure>
+        <regulatoryDisclosureCommonQuestion>
+          <com:isMadeFalseStatement>N</com:isMadeFalseStatement>
+          <com:isViolatedRegulation>N</com:isViolatedRegulation>
+          <com:isCauseOfDenial>N</com:isCauseOfDenial>
+          <com:isOrderAgainst>N</com:isOrderAgainst>
+          <com:isImposedPenalty>N</com:isImposedPenalty>
+          <com:isUnEthical>N</com:isUnEthical>
+          <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+          <com:isFoundInCauseOfDenial>N</com:isFoundInCauseOfDenial>
+          <com:isOrderAgainstActivity>N</com:isOrderAgainstActivity>
+          <com:isDeniedLicense>N</com:isDeniedLicense>
+          <com:isFoundMadeFalseStatement>N</com:isFoundMadeFalseStatement>
+          <com:isFoundInViolationOfRules>N</com:isFoundInViolationOfRules>
+          <com:isFoundInCauseOfSuspension>N</com:isFoundInCauseOfSuspension>
+          <com:isDiscipliend>N</com:isDiscipliend>
+          <com:isAuthorizedToActAttorney>N</com:isAuthorizedToActAttorney>
+          <com:isRegulatoryComplaint>N</com:isRegulatoryComplaint>
+        </regulatoryDisclosureCommonQuestion>
+        <isViolatedSecurityAct>N</isViolatedSecurityAct>
+        <isWillFullyAided>N</isWillFullyAided>
+        <isFailedToSupervise>N</isFailedToSupervise>
+        <isFoundWillFullyAided>N</isFoundWillFullyAided>
+        <isAssociationBared>N</isAssociationBared>
+        <isFinalOrder>N</isFinalOrder>
+        <isWillFullyViolatedSecurityAct>N</isWillFullyViolatedSecurityAct>
+        <isFailedResonably>N</isFailedResonably>
+      </regulatoryDisclosure>
+      <investigationDisclosure>
+        <isInvestigated>N</isInvestigated>
+      </investigationDisclosure>
+      <civilDisclosure>
+        <com:isEnjoined>N</com:isEnjoined>
+        <com:isFoundInViolationOfRegulation>N</com:isFoundInViolationOfRegulation>
+        <com:isDismissed>N</com:isDismissed>
+        <com:isNamedInCivilProceeding>N</com:isNamedInCivilProceeding>
+      </civilDisclosure>
+      <complaintDisclosure>
+        <isComplaintPending>N</isComplaintPending>
+        <isComplaintSettled>N</isComplaintSettled>
+        <isFraudCasePending>N</isFraudCasePending>
+        <isFraudCaseResultedAward>N</isFraudCaseResultedAward>
+        <isFraudCaseSettled>N</isFraudCaseSettled>
+      </complaintDisclosure>
+      <terminationDisclosure>
+        <isViloatedIndustryStandard>N</isViloatedIndustryStandard>
+        <isInvolvedInFraud>N</isInvolvedInFraud>
+        <isFailedToSupervise>N</isFailedToSupervise>
+      </terminationDisclosure>
+      <financialDisclosure>
+        <isCompromised>N</isCompromised>
+        <isBankruptcyPetition>N</isBankruptcyPetition>
+        <isTrusteeApointed>N</isTrusteeApointed>
+        <isBondRevoked>N</isBondRevoked>
+      </financialDisclosure>
+      <judgmentLienDisclosure>
+        <isLienAgainst>N</isLienAgainst>
+      </judgmentLienDisclosure>
+    </disclosureQuestions>
+    <signatureInfo>
+      <com:signature>
+        <com:dateSigned>12-11-2019</com:dateSigned>
+        <com:signature>Casey Bolton</com:signature>
+        <com:title>Partner</com:title>
+      </com:signature>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
